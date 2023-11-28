@@ -1,14 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jong Woo Park
 =====================================================================================================================================
 
-Frontend Developer
+Web Developer
 ------------------
 
-I am a frontend developer who has skills experience doing projects in ReactJS. I am also knowledgable in Python.
+I am a web developer who has skills and experience developing data applications using Python, Pandas and Pytorch.
+I also have experience developing full stack web apps using VueJS and Spring Boot web frameworks.
 
 * 🌍  I'm based in Seoul, Korea
 * ✉️  You can contact me at [jongwoop97@gmail.com](mailto:jongwoop97@gmail.com)
-* 🧠  I'm learning ReactJS, NodeJS, Typescript
+* 🧠  I'm interested in building useful services and I'm currently working on a youtube chrome extension.
 
 ### Skills
 
